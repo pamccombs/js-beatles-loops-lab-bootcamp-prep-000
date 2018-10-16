@@ -24,5 +24,6 @@ function iLoveTheBeatles(n){
   
   do{
     number.push(`I love the Beatles`)
+    n++
   }
 }
