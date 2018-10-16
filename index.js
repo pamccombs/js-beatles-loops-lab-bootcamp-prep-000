@@ -23,6 +23,6 @@ function iLoveTheBeatles(n){
   var number = []
   
   do{
-    
+    number.push(`I love the Beatles`)
   }
 }
